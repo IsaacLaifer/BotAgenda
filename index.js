@@ -219,4 +219,4 @@ bot.on('message', message => {
     }
 })
 
-bot.login('ODM0NDQ0MzIwOTc1MjI0ODcy.YIA-1Q.tL4d_YjC2WjMIlY-yaEoKybNl30')
+bot.login('')
